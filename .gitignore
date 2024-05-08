@@ -1,0 +1,16 @@
+.vscode
+testing-project
+.mypy_cach
+poetry.lock
+dev-link/
+.coverage
+venv
+.idea
+__pycache__
+htmlcov
+.trash
+*.csv
+*.pt
+*.npy
+*.zip
+*.png
